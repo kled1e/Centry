@@ -1,2 +1,0 @@
-# Centry
-Centry Hub 
